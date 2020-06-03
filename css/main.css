@@ -1,0 +1,84 @@
+img{
+  width:72%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.m-quarter img:hover{
+  opacity: 0.6;
+}
+
+.m-quarter{
+  width:100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logo{
+
+  width: 65%;
+}
+.carousel-control-next {
+    filter: invert(100%);
+}
+.carousel-control-prev{
+    filter: invert(100%);
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
+}
+
+ .size{
+
+    width: 75%;
+    margin: auto;
+  }
+  #programming{
+    text-align: center;
+    font-family: "Bebas Neue", serif;
+    color: #868e96;
+  }
+
+#color:hover{
+  color: #00CBAD;
+  opacity: 0.7;
+}
+.dev-icons {
+   text-align: center;
+    font-size: 2.5rem;
+}
+#contacto{
+    color: #01B1A1;
+text-align: center;
+    font-size: 15rem;
+    opacity: 0.5;
+}
+#contacto:hover{
+  color: #929292;
+}
+#link:hover{
+  color: #008975;
+font-weight: bold;
+  
+}
+.colorlink{
+  color: #008975;
+}
+[class^="fa-"], [class*="fa-"] {
+    display: inline-block;
+    width: 100%;
+}
+
