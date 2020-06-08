@@ -81,4 +81,17 @@ font-weight: bold;
     display: inline-block;
     width: 100%;
 }
+ .text-justify { text-align: justify; }
 
+h3{
+  color: #008975;
+}
+.zoom {
+    transition: transform .4s; /* Animation */
+
+}
+
+.zoom:hover {
+    transform: scale(1.055); 
+opacity: 0.8;
+}
