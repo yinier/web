@@ -52,7 +52,7 @@ img{
     color: #868e96;
   }
 
-#color:hover{
+.color:hover{
   color: #00CBAD;
   opacity: 0.7;
 }
